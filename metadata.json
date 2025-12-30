@@ -1,0 +1,9 @@
+{
+  "name": "ABDIG - Absen Digital",
+  "description": "A professional digital attendance system for schools with Admin, Teacher, and Student roles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
